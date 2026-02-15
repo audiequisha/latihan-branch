@@ -1,2 +1,3 @@
 # This is the trial for latihan-branch
-Github is fun
+Learning Github by Dicoding is so recommended
+
